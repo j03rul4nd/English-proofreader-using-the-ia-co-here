@@ -1,13 +1,17 @@
-# Astro Starter Kit: Minimal
+# English proofreader using the ia co:here
 
-```
-npm create astro@latest -- --template minimal
-```
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/minimal)
-[![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/withastro/astro/tree/latest/examples/minimal)
+> [My website](https://iotsolutionsscada.com/)
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+> [My linkedin](https://www.linkedin.com/in/joel-benitez-iiot-industry/)
+
+
+
+## Welcome to my Co:Here AI English Proofreader repository!
+
+This project aims to improve the quality of written English using state-of-the-art artificial intelligence provided by the Co:Here platform. This tool is based on an advanced language model that detects grammatical and spelling errors, suggesting accurate corrections in real time. 
+
+Thank you for visiting my repository and I hope you enjoy exploring this project!
 
 ## 🚀 Project Structure
 
@@ -43,4 +47,4 @@ All commands are run from the root of the project, from a terminal:
 
 ## 👀 Want to learn more?
 
-Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+[My newsletter in linkedin](https://www.linkedin.com/newsletters/6966420118167777280/).
