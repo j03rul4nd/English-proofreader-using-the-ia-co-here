@@ -47,4 +47,4 @@ All commands are run from the root of the project, from a terminal:
 
 ## 👀 Want to learn more?
 
-[My newsletter in linkedin](https://www.linkedin.com/newsletters/6966420118167777280/).
+[My NEWSLETTER in linkedin](https://www.linkedin.com/newsletters/6966420118167777280/).
