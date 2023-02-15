@@ -8,5 +8,7 @@ import tailwind from "@astrojs/tailwind";
 
 // https://astro.build/config
 export default defineConfig({
-  integrations: [svelte(), tailwind()]
+  integrations: [svelte(), tailwind()],
+  site: 'j03rul4nd.github.io',
+  base: '/English-proofreader-using-the-ia-co-here',
 });
